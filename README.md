@@ -36,10 +36,11 @@ Holidays para el cálculo de días festivos en Chile
 
 ---
 
-```plaintext
+
 
 ## 📂 Estructura del Proyecto
 
+```plaintext
 /project-root
 ├── app.py                 # Archivo principal de la aplicación Flask
 ├── templates/
