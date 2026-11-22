@@ -113,7 +113,8 @@ Crea un pull request.
 
 ## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT. Puedes usarlo libremente, siempre dando el crédito correspondiente. 🧑‍💻
+Este proyecto está bajo la [licencia MIT](LICENSE), a nombre de Israel Ubeda.
+Código interno de registro: [IU-OSS-0004](LICENSE_ID.txt).
 
 ## ✨ Autor
 
